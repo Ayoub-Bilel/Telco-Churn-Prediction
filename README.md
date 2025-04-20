@@ -4,7 +4,6 @@ A machine learning project to predict customer churn using the Telco Customer Ch
 ## Overview
 This project uses Logistic Regression and XGBoost to predict customer churn (Churn). 
 It includes preprocessing, modeling, and evaluation. 
-Visualizations include ROC curves, confusion matrices, and feature importance plots.
 
 ## Files
 `telco_churn_prediction.ipynb` : Jupyter Notebook with code, visualizations, and conclusions.
